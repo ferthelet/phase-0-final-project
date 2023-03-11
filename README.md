@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-- Build a website using HTML, CSS and JavaScript
-- Publish a website
+- Build a website using HTML, CSS and JavaScript.
+- Publish a website.
 
 ## Introduction
 
